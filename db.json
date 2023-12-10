@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Jack",
+      "title": "React MVC Pattern",
+      "text": "How to manage components with MVC??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "React MVVM Pattern",
+      "text": "What is this???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "378a0574-a91e-417e-ae41-a301fe1234e0",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "How can I solve this problem???",
+      "user": "Hannah"
+    },
+    {
+      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "What is MVVM?",
+      "text": "What is MVVM",
+      "user": "Henry"
+    },
+    {
+      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "Project with React",
+      "text": "How to develop a project with React?",
+      "user": "Mustafa"
+    },
+    {
+      "id": "947259ce-7e76-4a45-9fff-e07c749288ce",
+      "date": "2023-12-10T12:44:09.959Z",
+      "title": "React Native",
+      "text": "How to develop a project with React-Native?",
+      "user": "Özge"
+    },
+    {
+      "id": "984cf4d1-7b6e-4365-83e5-e8eedc32f6c0",
+      "date": "2023-12-10T12:47:14.394Z",
+      "title": "Native",
+      "text": "What is React Native?",
+      "user": "Özge"
+    }
+  ]
+}
